@@ -14,19 +14,19 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 ## Business Problems and Solutions
 
-### 1. Count the Number of Movies vs TV Shows
-### 2. Find the Most Common Rating for Movies and TV Shows
-### 3. List All Movies Released in a Specific Year (e.g., 2020)
-### 4. Identify the Longest Movie
-### 5. Find Content Added in the Last 5 Years
-### 6. Find All Movies/TV Shows by Director 'Rajiv Chilaka'
-### 7. List All TV Shows with More Than 5 Seasons
-### 8. Count the Number of Content Items in Each Genre
-### 9.Find each year and the average numbers of content release in India on netflix. 
-### 10. List All Movies that are Documentaries
-### 11. Find All Content Without a Director
-### 12. Find How Many Movies Actor 'Salman Khan' Appeared in the Last 10 Years
-### 13. Categorize Content Based on the Presence of 'Kill' and 'Violence' Keywords
+1. Count the Number of Movies vs TV Shows
+2. Find the Most Common Rating for Movies and TV Shows
+3. List All Movies Released in a Specific Year (e.g., 2020)
+4. Identify the Longest Movie
+5. Find Content Added in the Last 5 Years
+6. Find All Movies/TV Shows by Director 'Rajiv Chilaka'
+7. List All TV Shows with More Than 5 Seasons
+8. Count the Number of Content Items in Each Genre
+9.Find each year and the average numbers of content release in India on netflix. 
+10. List All Movies that are Documentaries
+11. Find All Content Without a Director
+12. Find How Many Movies Actor 'Salman Khan' Appeared in the Last 10 Years
+13. Categorize Content Based on the Presence of 'Kill' and 'Violence' Keywords
 
 
 ## Findings and Conclusion
