@@ -23,7 +23,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 7. Find All Movies/TV Shows by Director 'Rajiv Chilaka'
 8. List All TV Shows with More Than 5 Seasons
 9. Count the Number of Content Items in Each Genre
-10.Find each year and the average numbers of content release in India on netflix. 
+10. Find each year and the average numbers of content release in India on netflix. 
 11. List All Movies that are Documentaries
 12. Find All Content Without a Director
 13. Find How Many Movies Actor 'Salman Khan' Appeared in the Last 10 Years
